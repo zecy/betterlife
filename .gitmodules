@@ -1,0 +1,3 @@
+[submodule "userscript/fk_ex"]
+	path = userscript/fk_ex
+	url = https://github.com/zecy/fk_ex.git
