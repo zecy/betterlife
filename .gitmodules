@@ -4,3 +4,6 @@
 [submodule "userscript/fk_lk"]
 	path = userscript/fk_lk
 	url = https://github.com/zecy/fuck_lk.git
+[submodule "imgafter"]
+	path = imgafter
+	url = https://github.com/zecy/imgafter.git
